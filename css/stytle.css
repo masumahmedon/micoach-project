@@ -1,0 +1,37 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.p_banner{
+    margin: 0;
+    color: rgb(237, 96, 96);
+}
+.h1_banner{
+    font-size: 54px;
+    font-weight: 700;
+}
+.form-control,.cus-btn{
+    width: 388px;
+    height: 60px;
+}
+
+.parent{
+    position: relative;
+}
+.cus-btn {
+    position: absolute;
+    top: 1px;
+    right: 160px;
+    width: 91px;
+}
+.devider{
+    width: 4px;
+    height: 53px;
+    background-color: red;
+    
+}
+.phone {
+    margin: -34px 20px 20px 30px;
+}
