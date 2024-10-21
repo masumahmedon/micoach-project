@@ -17,14 +17,21 @@
         height: 50px;
     }
     .cus-btn {
-        right: 30px;
+        right: 19px;
         width: 68px;
         height: 47px;
         }
     }
+    .icon {
+        margin: 7px 22px 2px 142px;
+    }
 
-  
-
+    .col-auto {
+        margin: 0 19px;
+    }
+    .form-control {
+        width: 260px;
+    }
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {

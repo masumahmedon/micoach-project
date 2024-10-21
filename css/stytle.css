@@ -28,13 +28,14 @@
     width: 91px;
 }
 .devider{
+    margin-left: -18px;
     width: 4px;
     height: 53px;
     background-color: red;
     
 }
-.icon{
-    margin: -29px 46px;
+.icon {
+    margin: -34px 0;
 }
 .b_text{
     padding-top: 70px;
@@ -52,6 +53,11 @@
     width: 3px;
     background-color: red;
 }
-.top {
-    padding-top: 24px;
+.col-lg-2 {
+    flex: 0 0 auto;
+    width: 0.666667%;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 0rem;
 }
