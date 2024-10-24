@@ -8,6 +8,9 @@
     .h1_banner {
         font-size: 34px;
     }
+    .icon {
+        margin: -25px 22px 1px -3px;
+    }
     
 .devider {
     height: 0px;
@@ -32,7 +35,10 @@
     .form-control {
         width: 260px;
     }
-
+    /* about section */
+    .content_2 {
+        padding: 50px 0 30px 0px;
+    }
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
    

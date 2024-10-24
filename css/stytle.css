@@ -4,7 +4,7 @@
     padding: 0;
     box-sizing: border-box;
   }
-.p_banner{
+.p_banner,.a_p{
     margin: 0;
     color: rgb(237, 96, 96);
 }
@@ -35,7 +35,8 @@
     
 }
 .icon {
-    margin: -34px 0;
+    margin:-35px 0px -10px -3px;
+
 }
 .b_text{
     padding-top: 70px;
@@ -60,4 +61,40 @@
 p {
     margin-top: 0;
     margin-bottom: 0rem;
+}
+
+/* about section */
+.about,.footer{
+    margin-top: 90px;
+}
+.a_h2{
+    font-size: 34px;
+    font-weight: 700;
+}
+.a_text{
+
+padding: 10px 53px;
+}
+.content_2{
+    
+padding: 50px 0 30px 100px;
+}
+.icon1{
+    padding-bottom: 20px;
+}
+.icon1,.icon2{
+    position: relative;
+}
+.icon-1,.icon-2{
+    position: absolute;
+    top: 9px;
+    left: -35px;
+    color: red;
+    font-size: 27px;
+}
+.btn_cus{
+    padding-left: 35px;
+}
+i{
+    font-size: 30px;
 }
